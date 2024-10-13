@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vivekkarli
 - 🧑‍💻 I'm a java backend developer
-- 🌱 I’m currently learning microserices, docker, kubernetes
+- 🌱 I’m currently learning microservices, docker, kubernetes
 - 📫 How to reach me: vivekkarli7@gmail.com
 - 😄 Pronouns: he/him
 
